@@ -209,13 +209,6 @@
     </dependencies>
   </dependencyManagement>
 
-  <repositories>
-    <repository>
-      <id>forplay-legacy</id>
-      <url>http://forplay.googlecode.com/svn/mavenrepo</url>
-    </repository>
-  </repositories>
-
   <scm>
     <connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection>
     <developerConnection>scm:git:git@github.com:jleetutorial/maven-project.git</developerConnection>
