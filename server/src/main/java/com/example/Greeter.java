@@ -1,4 +1,3 @@
-package package-info;
 package com.example;
 
 /**
